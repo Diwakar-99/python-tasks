@@ -16,5 +16,5 @@ for _ in range(num_days):
     record_sales()
 
 # Print the total sales amount at the end
-print(f"\nTotal Sales after {num_days} days: ${total_sales:.2f}")
+print(f"\nTotal Sales after {num_days} days: ${total_sales}")
  
