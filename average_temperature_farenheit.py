@@ -10,6 +10,6 @@ for temp in celsius_temps:
 average_fahrenheit = sum(fahrenheit_temps) / len(fahrenheit_temps)
 
 # Print the results
-print("Temperatures in Fahrenheit:", fahrenheit_temps)
+print("Temperatures in Fahrenheit  :", fahrenheit_temps)
 print("Average temperature in Fahrenheit:", average_fahrenheit)
  
